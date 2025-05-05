@@ -12,3 +12,11 @@ Colab - Atv1-B: https://colab.research.google.com/drive/1KLv1eDM7aiFjI1FccHX9Plr
 Colab - Atv1-C: https://colab.research.google.com/drive/1ldGt8r-VDaR4Bi5KXGs75xnPdTchp_vh?usp=sharing
 
 # Atividade 3 - Sample distribution and sampling distribution, TLC and p-value
+
+Colab - Atv-A: https://colab.research.google.com/drive/1yPe1avpICAV3ib5sTO1C5Qz3qYeKnzLU?usp=sharing
+
+Colab - Atv-B-TLC: https://colab.research.google.com/drive/1nveeqWelGIfOxt83HEZLDbs8OB7Bajl1?usp=sharing
+
+Colab - Atv-C-P-VALUE: https://colab.research.google.com/drive/1oofEU-coCffQP1OT7yrl9Q4CciOVuk_8?usp=sharing
+
+Colab - Atv-D-P-VALUE: https://colab.research.google.com/drive/1huABOrrju0Sm4AkH4IygZXzs6xdGThyh?usp=sharing
