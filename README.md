@@ -20,3 +20,6 @@ Colab - Atv-B-TLC: https://colab.research.google.com/drive/1nveeqWelGIfOxt83HEZL
 Colab - Atv-C-P-VALUE: https://colab.research.google.com/drive/1oofEU-coCffQP1OT7yrl9Q4CciOVuk_8?usp=sharing
 
 Colab - Atv-D-P-VALUE: https://colab.research.google.com/drive/1huABOrrju0Sm4AkH4IygZXzs6xdGThyh?usp=sharing
+
+# Atividade 4 - Programas em Python for p-value, confidence intervals e correlation
+Colab - Atv-4-D - Significance_Level: https://docs.google.com/presentation/d/1lCY-5djUTd86rFx8gXaRbecsugesk7ZaAmJSN-yxUfE/edit?usp=sharing
