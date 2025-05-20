@@ -23,3 +23,6 @@ Colab - Atv-D-P-VALUE: https://colab.research.google.com/drive/1huABOrrju0Sm4AkH
 
 # Atividade 4 - Programas em Python for p-value, confidence intervals e correlation
 Colab - Atv-4-D - Significance_Level: https://docs.google.com/presentation/d/1lCY-5djUTd86rFx8gXaRbecsugesk7ZaAmJSN-yxUfE/edit?usp=sharing
+
+----------------------------------------------------------------------------------------
+# Atividade 2.1 - Linear regression and metrics
