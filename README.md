@@ -26,3 +26,7 @@ Colab - Atv-4-D - Significance_Level: https://docs.google.com/presentation/d/1lC
 
 ----------------------------------------------------------------------------------------
 # Atividade 2.1 - Linear regression and metrics
+
+Colab - Atv2.1-A - https://colab.research.google.com/drive/14Ue4ilkHev2j0WkNNlFcV-nNP6a7rWsw?usp=sharing
+
+Colab - Atv2.1-B - https://colab.research.google.com/drive/1Rb2RvtH5_e9Ji-G_pStajd5K1aAlp2Wo?usp=sharing
